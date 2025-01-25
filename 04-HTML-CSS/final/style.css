@@ -5,13 +5,15 @@
 }
 
 body {
-  background-color: rgb(255, 247, 201);
-  font-family: Arial;
+  background-color: rgb(242, 215, 160);
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 20px;
   padding: 50px;
 }
 
 h1 {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
   font-size: 35px;
   margin-bottom: 25px;
 }
@@ -31,7 +33,7 @@ p {
 
 #your-name {
   background-color: rgb(255, 220, 105);
-  border: 5px solid #444;
+  border: 5px solid #e30d0d;
   width: 400px;
   padding: 25px;
   margin-top: 30px;
@@ -49,6 +51,7 @@ a {
 
 #course-image {
   width: 300px;
+  height: 200px;
 }
 
 #your-name h2 {
